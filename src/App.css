@@ -1,0 +1,6 @@
+.demo{
+    width: 187.5px;
+    height: 187.5px;
+    background-color: red;
+    transform: rotate(45deg);
+}

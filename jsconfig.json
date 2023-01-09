@@ -1,5 +1,4 @@
 {
-    // 配置编辑器路径提示
     "compilerOptions": {
         "baseUrl": "./",
         "paths": {

@@ -14,6 +14,8 @@
   },
   "devDependencies": {
     "customize-cra": "^1.0.0",
+    "postcss-px-to-viewport": "^1.1.1",
+    "postcss-px2rem": "^0.3.0",
     "react-app-rewired": "^2.2.1",
     "sass": "^1.57.1"
   },
@@ -29,7 +31,6 @@
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -48,5 +49,4 @@
       "last 1 safari version"
     ]
   }
-
 }
